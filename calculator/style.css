@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  color: #fff;
+}
+
+.cal-wrapper{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.cal-wrapper .btn{
+    padding:25px;
+    background-color: transparent;
+    color: #fff;
+    font-weight:700;
+    border-radius:35px;
+    font-size:30px;
+    outline: 0;
+}
+.cal-wrapper .btn:focus,
+.cal-wrapper .btn:active{
+    outline: 0;
+    box-shadow:none !important;
+}
+.cal-wrapper input{
+    width: 100%;
+    padding:20px;
+    height:100px;
+    border: 2px solid #ccc;
+    background-color: transparent;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom:15px;
+    color:#fff;
+    border-radius: 6px;
+}
+.cal-wrapper input:focus{
+    outline: 0;
+    box-shadow: unset;
+}
+.cal-wrapper input::placeholder{
+    font-weight: 700;
+    color: #fff;
+    font-size:35px;
+}
+.cal-wrapper .calculater-wrap{
+    background-color: rgb(35, 36, 34);
+    padding:15px;
+    border-radius: 10px;
+    box-shadow:04px 5px 20px rgba(0,0,0,0.6);
+}
+.cal-wrapper h1{
+    color:orange;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    font-weight: 700;
+
+}
+.cal-wrapper .row{
+    margin: 10px 0;
+}
