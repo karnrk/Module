@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-
+https://prnt.sc/MBWwInPTvEzz 
 The Panorama Slider Module is a versatile and responsive carousel/slider module for showcasing content in a visually appealing way. It supports dynamic card items with customizable styles and navigation buttons.
 
 ## Features
